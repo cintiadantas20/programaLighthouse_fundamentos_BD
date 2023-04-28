@@ -1,5 +1,5 @@
 # programaLighthouse_fundamentos_cloud
-Desafio referente ao Módulo IV - Fundamentos de cloud do programa Lighthouse, trilha Data Science
+Desafio referente ao Módulo IV - Fundamentos de banco de dados do programa Lighthouse, trilha Data Science
 
 Para rodar esta aplicação, é necessário:
 * Criar um ambiente virtual;
