@@ -45,7 +45,7 @@ def run_queries(params, commands):
 ## --------------------------------------##
 ## Desafio
 
-#query_1 = """create database my_company;"""
+query_1 = """create database my_company;"""
 
 # Crie uma nova query para cada tarefa
 
