@@ -110,7 +110,7 @@ query_8 = """create index indice
              on pedidos (id_pedido)"""
 
 # Adicione todas as queries na lista abaixo
-queries = [query_2, query_3, query_4, query_5, query_6, query_7, query_8]
+queries = [query_1, query_2, query_3, query_4, query_5, query_6, query_7, query_8]
 
 #----------------------------------------##
 # Não alterar abaixo desta linha
